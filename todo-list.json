@@ -1,26 +1,42 @@
-[
-    {  
-        "text":"HTML",
-        "done":true
+{
+    "0": {
+        "text": "HTML",
+        "done": true
     },
-    {
-        "text":"CSS",
-        "done":true
+    "3": {
+        "text": "Javascript",
+        "done": true
     },
-    {
-        "text":"Responsive design",
-        "done":true
+    "4": {
+        "text": "PHP",
+        "done": true
     },
-    {
-        "text":"Javascript",
-        "done":true
+    "5": {
+        "text": "Laravel",
+        "done": false
     },
-    {
-        "text":"PHP",
-        "done":true
+    "6": {
+        "text": "Pizza",
+        "done": false
     },
-    {
-        "text":"Laravel",
-        "done":false
+    "7": {
+        "text": "NO Css",
+        "done": false
+    },
+    "8": {
+        "text": "Erroraccio",
+        "done": false
+    },
+    "9": {
+        "text": "Erroraccio",
+        "done": false
+    },
+    "10": {
+        "text": "Cosimo",
+        "done": false
+    },
+    "11": {
+        "text": "Emanuele",
+        "done": false
     }
-]
+}
